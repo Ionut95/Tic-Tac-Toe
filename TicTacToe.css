@@ -1,0 +1,17 @@
+table {
+  background-color: black;
+  table-layout: fixed;
+  color: white;
+  font-size: 25px;
+  width: 185px;
+}
+
+tr {
+  height: 75px;
+}
+
+h5 {
+  text-align: center;
+  color: red;
+  font-size: 40px;
+}
